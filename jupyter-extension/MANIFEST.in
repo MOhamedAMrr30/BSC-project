@@ -1,0 +1,2 @@
+include jupyter_ai_chat.json
+recursive-include jupyter_ai_chat/static *

@@ -1,0 +1,8 @@
+setup.py
+jupyter-extension/__init__.py
+jupyter-extension/setup.py
+jupyter_ai_chat.egg-info/PKG-INFO
+jupyter_ai_chat.egg-info/SOURCES.txt
+jupyter_ai_chat.egg-info/dependency_links.txt
+jupyter_ai_chat.egg-info/requires.txt
+jupyter_ai_chat.egg-info/top_level.txt

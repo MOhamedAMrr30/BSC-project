@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "debug_panel/index": true
+  }
+} 
